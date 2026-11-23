@@ -10,3 +10,11 @@ Jakub 21
 Krzysztof 20
 Janusz 40
 Bartek 23
+Krzysztof 20
+Janusz 40
+Krzysztof 20
+Janusz 40
+Janusz 33
+Krzysztof 20
+Janusz 40
+janusz 33
